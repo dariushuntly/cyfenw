@@ -4,5 +4,83 @@
     "fullname": "Alfred Russel Wallace",
     "fields": ["naturalist", "explorer", "geographer", "anthropologist", "biologist"],
     "knownfor": ["natural selection"]
+  },
+  {
+    "shortname": "Curran",
+    "fullname": "Joan Curran",
+    "fields": ["physics"],
+    "knownfor": ["radar", "chaff", "proximity fuzes"]
+  },
+  {
+    "shortname": "Feynman",
+    "fullname": "Richard Phillips Feynman",
+    "fields": ["physics", "theoretical physics", "quantum mechanics"],
+    "knownfor": ["too much stuff"]
+  },
+  {
+    "shortname": "Fermat",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
+  },
+  {
+    "shortname": "Darwin",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
+  },
+  {
+    "shortname": "Falileo",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
+  },
+  {
+    "shortname": "Ellis",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
+  },
+  {
+    "shortname": "Heisenberg",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
+  },
+  {
+    "shortname": "Hoover",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
+  },
+  {
+    "shortname": "Hopper",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
+  },
+  {
+    "shortname": "Jennings",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
+  },
+  {
+    "shortname": "Kepler",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
+  },
+  {
+    "shortname": "Lehmann",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
+  },
+  {
+    "shortname": "Lovelace",
+    "fullname": "todo",
+    "fields": ["todo"],
+    "knownfor": ["todo"]
   }
 ]
