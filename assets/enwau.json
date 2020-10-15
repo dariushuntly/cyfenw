@@ -89,4 +89,46 @@
     "fields": ["physics"],
     "knownfor": ["todo"]
   },
+  {
+    "shortname": "Curie",
+    "fullname": "Marie",
+    "fields": ["physics","chemistry"],
+    "knownfor": ["radioactivity","radium","polonium"]
+  },
+  {
+    "shortname": "Meitner",
+    "fullname": "Lise",
+    "fields": ["physics"],
+    "knownfor": ["fission"]
+  },
+  {
+    "shortname": "Strickland",
+    "fullname": "Donna",
+    "fields": ["physics"],
+    "knownfor": ["lasers"]
+  },
+  {
+    "shortname": "Rubin",
+    "fullname": "Vera",
+    "fields": ["physics","space"],
+    "knownfor": ["galaxies"]
+  },
+  {
+    "shortname": "Franklin",
+    "fullname": "Rosalind",
+    "fields": ["biology","chemistry","physics"],
+    "knownfor": ["xray-crystallography","DNA","RNA"]
+  },
+  {
+    "shortname": "Wu",
+    "fullname": "Chien-Shiung",
+    "fields": ["physics"],
+    "knownfor": ["nuclear-physics","uranium"]
+  },
+  {
+    "shortname": "Ayrton",
+    "fullname": "Hertha",
+    "fields": ["physics","maths","engineering"],
+    "knownfor": ["electric-arc","waves"]
+  },
 ]
