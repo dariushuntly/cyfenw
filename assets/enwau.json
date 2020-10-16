@@ -131,4 +131,257 @@
     "fields": ["physics","maths","engineering"],
     "knownfor": ["electric-arc","waves"]
   },
+  {
+    "shortname": "Buck",
+    "fullname": "Linda",
+    "fields": ["biology"],
+    "knownfor": ["Smell"]
+  },
+
+  {
+    "shortname": "Blackwell",
+    "fullname": "Elizabeth",
+    "fields": ["biology"],
+    "knownfor": ["medical-school-founder","first-american-woman-physician"]
+  },
+  {
+    "shortname": "Ramón y Cajal",
+    "fullname": "Santiago",
+    "fields": ["biology"],
+    "knownfor": ["neuroscience"]
+  },
+  {
+    "shortname": "Carson",
+    "fullname": "Rachel",
+    "fields": ["biology"],
+    "knownfor": ["environmentalism"]
+  },
+  {
+    "shortname": "Carver",
+    "fullname": "George Washington",
+    "fields": ["biology"],
+    "knownfor": ["agriculture"]
+  },
+  {
+    "shortname": "Costeau",
+    "fullname": "Jacques",
+    "fields": ["biology"],
+    "knownfor": ["marine-biology"]
+  },
+  {
+    "shortname": "Darwin",
+    "fullname": "Charles",
+    "fields": ["biology"],
+    "knownfor": ["evolution"]
+  },
+  {
+    "shortname": "Flemming",
+    "fullname": "Alexander",
+    "fields": ["biology"],
+    "knownfor": ["penicillin", "antiobiotics"]
+  },
+  {
+    "shortname": "Goodall",
+    "fullname": "Jane",
+    "fields": ["biology"],
+    "knownfor": ["animal-behaviour","chimpanzees"]
+  },
+  {
+    "shortname": "Gould",
+    "fullname": "Stephen Jay",
+    "fields": ["biology"],
+    "knownfor": ["evolution"]
+  },
+  {
+    "shortname": "Hardy",
+    "fullname": "Alister",
+    "fields": ["biology"],
+    "knownfor": ["aquatic-ape-theory"]
+  },
+  {
+    "shortname": "Harvey",
+    "fullname": "William",
+    "fields": ["biology"],
+    "knownfor": ["blood-circulation"]
+  },
+  {
+    "shortname": "Hilleman",
+    "fullname": "Maurice",
+    "fields": ["biology"],
+    "knownfor": ["vaccines"]
+  },
+  {
+    "shortname": "Hippocrates",
+    "fullname": "",
+    "fields": ["biology"],
+    "knownfor": ["physician"]
+  },
+  {
+    "shortname": "Hooke",
+    "fullname": "Robert",
+    "fields": ["biology"],
+    "knownfor": ["Micrographia"]
+  },
+  {
+    "shortname": "Horner",
+    "fullname": "Jack",
+    "fields": ["biology"],
+    "knownfor": ["dinosaurs"]
+  },
+  {
+    "shortname": "Joliot-Curie",
+    "fullname": "Irene",
+    "fields": ["biology", "chemistry"],
+    "knownfor": ["radiology"]
+  },
+  {
+    "shortname": "Kelsey",
+    "fullname": "Frances",
+    "fields": ["biology"],
+    "knownfor": ["stopped sale of thalidomide"]
+  },
+  {
+    "shortname": "Lansteiner",
+    "fullname": "Karl",
+    "fields": ["biology"],
+    "knownfor": ["blood groups"]
+  },
+  {
+    "shortname": "Linnaeus",
+    "fullname": "Carolus",
+    "fields": ["biology"],
+    "knownfor": ["animal classification"]
+  },
+  {
+    "shortname": "McClintock",
+    "fullname": "Barbara",
+    "fields": ["biology"],
+    "knownfor": ["genetics"]
+  },
+  {
+    "shortname": "Nightingale",
+    "fullname": "Florence",
+    "fields": ["biology"],
+    "knownfor": ["nursing"]
+  },
+  {
+    "shortname": "Shoemaker",
+    "fullname": "Gene",
+    "fields": ["biology", "physics", "geology"],
+    "knownfor": ["astrogeology"]
+  },
+  {
+    "shortname": "Stevens",
+    "fullname": "Nettie",
+    "fields": ["biology"],
+    "knownfor": ["XY sex-determination"]
+  },
+  {
+    "shortname": "Tonegawa",
+    "fullname": "Susumu",
+    "fields": ["biology"],
+    "knownfor": ["immune system", "antibodies"]
+  },
+  {
+    "shortname": "Tu",
+    "fullname": "Youyou",
+    "fields": ["biology"],
+    "knownfor": ["artemisinin"]
+  },
+  {
+    "shortname": "Urey",
+    "fullname": "Harold",
+    "fields": ["chemistry", "biology", "physics"],
+    "knownfor": ["amino acids"]
+  },
+  {
+    "shortname": "Avogadro",
+    "fullname": "Amedeo",
+    "fields": ["chemistry"],
+    "knownfor": ["molecules"]
+  },
+  {
+    "shortname": "Bohr",
+    "fullname": "Niels",
+    "fields": ["chemistry", "physics"],
+    "knownfor": ["quantum-mechanics"]
+  },
+  {
+    "shortname": "Boyle",
+    "fullname": "Robert",
+    "fields": ["chemistry", "physics"],
+    "knownfor": ["gas law"]
+  },
+  {
+    "shortname": "Bragg",
+    "fullname": "Lawrence",
+    "fields": ["chemistry", "physics"],
+    "knownfor": ["x-ray-diffraction", "crystalography"]
+  },
+  {
+    "shortname": "Bunsen",
+    "fullname": "Robert",
+    "fields": ["chemistry"],
+    "knownfor": ["cesium", "rubidium"]
+  },
+  {
+    "shortname": "Faraday",
+    "fullname": "Michael",
+    "fields": ["chemistry", "physics"],
+    "knownfor": ["electromagnetism", "benzene"]
+  },
+  {
+    "shortname": "Kwolek",
+    "fullname": "Stephannie",
+    "fields": ["chemistry"],
+    "knownfor": ["kevlar"]
+  },
+  {
+    "shortname": "Marcet",
+    "fullname": "Jane",
+    "fields": ["chemistry"],
+    "knownfor": ["author"]
+  },
+  {
+    "shortname": "Nobel",
+    "fullname": "Alfred",
+    "fields": ["chemistry"],
+    "knownfor": ["explosives", "awards"]
+  },
+  {
+    "shortname": "Perev",
+    "fullname": "Marguerite",
+    "fields": ["chemistry"],
+    "knownfor": ["francium"]
+  },
+  {
+    "shortname": "Raman",
+    "fullname": "C. V.",
+    "fields": ["chemistry", "physics"],
+    "knownfor": ["optics"]
+  },
+  {
+    "shortname": "Rutherford",
+    "fullname": "Ernest",
+    "fields": ["chemistry", "physics"],
+    "knownfor": ["proton", "atomic nucleus", "nuclear"]
+  },
+  {
+    "shortname": "Seaborg",
+    "fullname": "Glenn",
+    "fields": ["chemistry"],
+    "knownfor": ["periodic table"]
+  },
+  {
+    "shortname": "Thompson",
+    "fullname": "J. J.",
+    "fields": ["chemistry"],
+    "knownfor": ["mass spectrometer", "electron"]
+  },
+  {
+    "shortname": "Volta",
+    "fullname": "Alessandro",
+    "fields": ["chemistry", "physics"],
+    "knownfor": ["battery", "methane"]
+  },
 ]
