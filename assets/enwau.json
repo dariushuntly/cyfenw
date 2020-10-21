@@ -82,7 +82,7 @@
     "fullname": "todo",
     "fields": ["todo"],
     "knownfor": ["todo"]
-  }
+  },
   {
     "shortname": "Burnell",
     "fullname": "Jocelyn Bell",
@@ -383,5 +383,5 @@
     "fullname": "Alessandro",
     "fields": ["chemistry", "physics"],
     "knownfor": ["battery", "methane"]
-  },
+  }
 ]

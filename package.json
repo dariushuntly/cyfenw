@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/dariushuntly/cyfenw/issues"
   },
-  "homepage": "https://github.com/dariushuntly/cyfenw#readme"
+  "homepage": "https://github.com/dariushuntly/cyfenw#readme",
+  "dependencies": {
+  }
 }
